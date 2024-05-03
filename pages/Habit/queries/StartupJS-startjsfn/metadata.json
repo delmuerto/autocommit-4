@@ -36,7 +36,8 @@
     "userSetOnLoad": true,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-05-03T06:53:29Z"
   },
   "id": "Habit_StartupJS.startjsfn",
   "deleted": false,
